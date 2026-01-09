@@ -1,7 +1,7 @@
 # Roblox Multi Instance (RMI)
 Made by KuroSuika
 
-Video on how it works - 
+## Video on how it works - 
 
 ## INSTRUCTIONS:
 1. Double-click RMI.exe
